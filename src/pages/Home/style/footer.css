@@ -1,0 +1,13 @@
+WriteUp-container{
+    /*height:auto;*/
+    /*width:50px;*/
+
+}
+
+
+.WriteUp{
+    display: flex;
+    background-color: darkgoldenrod;
+    width: 100%;
+    height: auto;
+}

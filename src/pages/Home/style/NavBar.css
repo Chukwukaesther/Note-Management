@@ -1,0 +1,26 @@
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: darkgoldenrod;
+    width: 100vw;
+    height: Auto;
+
+}
+
+.nav-bar ul{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-bar ul button{
+    width: 20vh;
+    height: 5vh;
+    font-size: large;
+    color: black;
+    list-style: none;
+    margin: 0 10px;
+}
+.NavBar img{
+    height: 100px;
+    width: 100px;
+}
